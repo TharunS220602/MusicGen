@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+torch
+transformers
+pillow
+midiutil
+pretty_midi
+pydub
