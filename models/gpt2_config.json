@@ -1,0 +1,18 @@
+{
+    "vocab_size": 128,
+    "n_positions": 128,
+    "n_ctx": 128,
+    "n_embd": 768,
+    "n_layer": 6,
+    "n_head": 12,
+    "n_inner": null,
+    "activation_function": "gelu_new",
+    "resid_pdrop": 0.1,
+    "embd_pdrop": 0.1,
+    "attn_pdrop": 0.1,
+    "layer_norm_epsilon": 1e-5,
+    "initializer_range": 0.02,
+    "output_hidden_states": false,
+    "output_attentions": false,
+    "use_cache": true
+}
